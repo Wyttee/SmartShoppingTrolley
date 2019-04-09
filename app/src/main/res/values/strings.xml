@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">SmartShoppingTrolley</string>
+    <string name="android_pay">Android Pay. Simple way to pay</string>
+    <string name="add_to_cart">ADD TO CART</string>
+    <string name="description_example">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</string>
+    <string name="product_size">Size: 40</string>
+    <string name="product_color">Color: Black</string>
+    <string name="product_price">Price: 80$</string>
+    <string name="action_cart">Shopping cart</string>
+    <string name="quantity">1</string>
+    <string name="product_name">Sleek black top</string>
+    <string name="price">100 $</string>
+    <string name="remove_from_cart">Remove</string>
+    <string name="continue_shopping">Continue shopping</string>
+    <string name="checkout">Checkout</string>
+    <string name="sub_total">Sub total:</string>
+    <string name="server_error">Failed to payment information to server</string>
+    <string name="successful_payment">Payment successfully uploaded</string>
+    <string name="pay_with_paypal">Pay with PayPal</string>
+    <string name="login">login</string>
+    <string name="user_name1">user_name1</string>
+    <string name="ksa_riyadh">ksa_riyadh</string>
+    <string name="edit">edit</string>
+    <string name="email">email</string>
+
+    <string name="user_name_or_email">User name or Email</string>
+    <string name="passowrd">passowrd</string>
+
+    <string name="welcome">Welcome....</string>
+    <string name="start_shopping">Start Shopping</string>
+    <string name="todo">TODO</string>
+
+    <string name="current_location">Current location</string>
+    <string name="password">Password</string>
+    <string name="phone_number"> phone number</string>
+    <string name="enter_username">Enter Username</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="signup">Signup</string>
+    <string name="loginn">Login</string>
+    <string name="thank_you_for_shopping_with_us">Thank you for shopping with us!</string>
+    <string name="submitt">Submitt</string>
+    <string name="add_new_location">Add New Location</string>
+    <string name="new_password">New Password</string>
+    <string name="old_user_name">Old User Name</string>
+    <string name="new_user_name">New User Name</string>
+    <string name="new_email">New Email</string>
+    <string name="new_phone_number">New Phone Number</string>
+    <string name="enter_phone_number">Enter phone number</string>
+    <string name="enter_location_address">Enter location address</string>
+
+
+
+</resources>
